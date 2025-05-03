@@ -1,21 +1,35 @@
-<!-- Banner principal (puede ser una imagen animada o estática) -->
+
 <p align="center">
-  <img src="https://i0.wp.com/media4.giphy.com/media/c1raPwW4r7nK8/giphy.gif" alt="banner" width="70%" height="35%" />
+  <img src="./assets/retro-gif-v2.gif" alt="banner" width="90%" height="35%" />
 </p>
 
-## 🤓 About Me
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/2052px-Pok%C3%A9_Ball_icon.svg.png" width="20" /> About Me <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/2052px-Pok%C3%A9_Ball_icon.svg.png" width="20" />
 
 Hi there! I'm Fede, a developer with experience in FrontEnd and Mobile Applications, currently studying the 5th
 year of Systems Information Engineering.
 I'm passionate about building impactful tech solutions and continuously learning new tools.
 
-- 💻 Currently working on Novatide Labs.
+- 💻 Currently working at Novatide Labs.
 - 📚 Working as an assistant in Systems Information Design, at Universidad Tecnológica Nacional Facultad Regional Córdoba.  
 - 🌱 Learning and improving in Flutter.
 
 ---
 
-# 📊 GitHub Stats
+## ⚙ Technologies ⚙
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📊 GitHub Stats 📊
 
 <table>
   <tr>
@@ -32,9 +46,13 @@ I'm passionate about building impactful tech solutions and continuously learning
 
 ---
 
-# 📫 Contact
+# 📫 Contact Me 📫
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fdhmz13/)
 - 📧 [Email](mailto:federicomizzau.77@gmail.com)
 
 ---
+
+<p align="center">
+  <img src="./assets/retro-gif-v2.gif" alt="banner" width="90%" height="35%" />
+</p>
