@@ -2,7 +2,7 @@
   <img src="./assets/retro-gif-v2.gif" alt="banner" width="90%" height="35%" />
 </p>
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/2052px-Pok%C3%A9_Ball_icon.svg.png" width="20" /> About Me <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/2052px-Pok%C3%A9_Ball_icon.svg.png" width="20" />
+## About Me
 
 Hi there! I'm Fede, a developer with experience in FrontEnd and Mobile Applications, currently studying the 5th
 year of Systems Information Engineering.
