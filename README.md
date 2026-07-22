@@ -4,8 +4,7 @@
 
 ## About Me
 
-Hi there! I'm Fede, a developer with experience in FrontEnd and Mobile Applications, currently studying the 5th
-year of Systems Information Engineering.
+Hi there! I'm Fede, a Systems Engineers, and a developer with experience in FrontEnd and Mobile Applications.
 I'm passionate about building impactful tech solutions and continuously learning new tools.
 
 - 💻 Currently working at Novatide Labs.
